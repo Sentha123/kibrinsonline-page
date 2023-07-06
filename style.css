@@ -1,0 +1,109 @@
+nav{
+    background-color: white;
+    height: 100px;
+}
+body{
+    background-color: red;
+}
+.logo{
+    height: 50px;
+    
+}
+.logo1{
+    height:50px;
+}
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+}
+li{
+    display: inline;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+h2{
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.box{
+    border: 3px solid black;
+    border-radius: 50px;
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    margin-left: 270px;
+    margin-top: 70px;
+}
+.box2{
+    width: 550px;
+    height: 550px;
+    display: inline-block;
+}
+.svg1{
+  margin-left: 30px;
+  margin-top: 30px;
+  color: white;
+}
+.g{
+    padding: 30px;
+    padding-left: 170px;
+}
+h4,h3{
+  color: white;
+}
+p{
+    color: white;
+}
+.name{
+    text-align: center;
+}
+.des{
+    text-align: center;
+}
+#r{
+    height: 20px;
+    width: 200px;
+    border:2 px solid black;
+    border-radius: 20px;
+}
+#t{
+    height: 270px;
+    width: 390px;
+    border: 2px solid black;
+}
+#sub{
+    height: 40px;
+    width: 100px;
+    margin-left: 200px;
+    border: 1px solid black;
+}
+.m{
+   
+    margin-top: 10px;
+}
+.p{
+  margin: 0;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+p{
+    color: white;
+    
+}
+.logo4{
+    height:50px;
+}
+.o{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+}
+hr{
+    width: 1250px;
+}
